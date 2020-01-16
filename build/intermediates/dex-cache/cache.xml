@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.4\8e25da5e31669f5acf514bdd99b94ff5c7003b3b\kotlin-runtime-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e25da5e31669f5acf514bdd99b94ff5c7003b3b">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\kotlin-runtime-1.0.4_a1e9767f923c844fe184f7e824ad1109465bb0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\80305bf387706a530cc161513070c56bbfd6b2e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_302d490e8567696c78900cf2fc35c42f04255623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.4\9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0\kotlin-stdlib-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\kotlin-stdlib-1.0.4_a8af8a4d70feb6bbe078ea9bca33e1c900dde100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\e3f0e4c52c9902568c359d56e1cf90444a289eba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_d3943509e96ee87ea62e61f38fd8b237efeafcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\0426088f892baf9653d78b319f50911c4ae4bd1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_e2f51e8f25ac132a8169f9a27bec384b00825789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\7b7250e95fd9988401a0d3c445e42fffe50221d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_5aa77180acc01a512d1573022197967602af6e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\ce98926cc35fe2701f6185b9a0f736eefa4f0594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_a6ca9443614ab7fb6294279074abdabb862a0a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\constraint-layout-solver-1.0.2_397f78be0dc6520beee99dcd616aa201b998595b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\support-annotations-25.3.1_40a75a991d083967877c1ccc87e56fef4eb14725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\77af3187750c3e05cae30e09268fa9f1a05214fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_a671e642e31565af5aea4c8f96e89a64e70dff85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\899b402a101f10db743c3f2ad2a21c6d6e2f536c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_ee225089418138fa78e5f46919dc3ed510d7283d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\24c50618f90d07c4d8880157d312e7b08c806bcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_d05ac45b516f87b9a0aa4beb0e43018b8b1cd1be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\dbced3a341a73afa718e9dc6df6189c37b647650\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_569703e942ba22ef411fa4ccfed4076bba3f1b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP SPECTRE 13 X360\.android\build-cache\d45f66adfb14911dc4e7ca8348a02abb5b51d46a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\HP SPECTRE 13 X360\DistanceCovered\app\build\intermediates\pre-dexed\flavor1\debug\classes_edb81373d8f754147a4654b8aee149a38d9e0fda.jar" />
+    </item>
+
+</items>
